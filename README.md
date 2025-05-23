@@ -45,8 +45,8 @@ The final insights support decision-making in areas such as station rebalancing,
 - Temporal and geographic factors together drive demand fluctuation
 
 ## Repository Contents
--`data`: Cleaned dataset used for modeling
--`code`: Including graph algorithm analysis and demand forecasting with Random Forest
+- `data`: Cleaned dataset used for modeling
+- `code`: Including graph algorithm analysis and demand forecasting with Random Forest
 
 
 ---
