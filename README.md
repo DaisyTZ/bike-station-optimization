@@ -1,4 +1,6 @@
 # Bike Station Optimization Using Graph Algorithms & Machine Learning
+Bike Station Optimization with Graph Algorithms and Machine Learning
+
 
 
 ## Project Overview
