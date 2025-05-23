@@ -8,14 +8,11 @@ This project integrates **network science** and **machine learning** to enhance 
 
 The final insights support decision-making in areas such as station rebalancing, commuter planning, and recreational availability.
 
----
 
 ## Tech Stack
 - Python (Pandas, NumPy, scikit-learn, NetworkX)
 - Matplotlib, Seaborn
 - Jupyter Notebook
-
----
 
 ## Modeling Highlights
 
@@ -28,7 +25,6 @@ The final insights support decision-making in areas such as station rebalancing,
 - **Hyde Park Corner, Hyde Park** is a **recreational loop hub** with 815 same-station round trips
 - **Newgate Street, St. Paul’s** is a **commuter hub** with high inbound traffic from King’s Cross and Waterloo
 
----
 
 ### Q2: Demand Forecasting – Predicting Hourly Trips
 - Filtered data to top 5 start stations
@@ -40,7 +36,6 @@ The final insights support decision-making in areas such as station rebalancing,
 - **Belgrove Street, King's Cross** shows peak demand on **Thursdays at 8:00 AM**, with **146.7 predicted trips**
 - Suggests targeted bike redistribution at high-volume hours to improve availability and reduce unmet demand
 
----
 
 ## Key Insights
 - Urban bike traffic patterns reflect both **commuter routines** and **recreational behavior**
@@ -48,11 +43,11 @@ The final insights support decision-making in areas such as station rebalancing,
 - Machine learning improves forecast accuracy and allows **hourly operational planning**
 - Temporal and geographic factors together drive demand fluctuation
 
----
-
 ## Repository Contents
 -`data`: Cleaned dataset used for modeling
 -`code`: Including graph algorithm analysis and demand forecasting with Random Forest
 
+
+---
 📍 Jan – Mar 2025  
 🏫 Purdue University Daniels School of Business
