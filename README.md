@@ -1,4 +1,5 @@
-# Bike Station Optimization Using Graph Algorithms & Machine Learning
+#  🚲Bike Station Optimization Using Graph Algorithms & Machine Learning
+
 
 ## Project Overview
 This project integrates **network science** and **machine learning** to enhance the operational efficiency of urban bikesharing systems. It consists of two parts:
@@ -45,7 +46,6 @@ The final insights support decision-making in areas such as station rebalancing,
 
 ## Repository Contents
 -`data`: Cleaned dataset used for modeling
-
 -`code`: Including graph algorithm analysis and demand forecasting with Random Forest
 
 
